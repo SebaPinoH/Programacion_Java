@@ -1,6 +1,5 @@
 //Ingresar numero por pantalla y este muestra el doble y el triple del numero
-
-import java.util.Scanner;
+import java.util.*;
 
 public class NumeroXDoble {
     

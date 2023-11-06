@@ -1,6 +1,6 @@
 //Introduce numero por teclado y los muestra en pantalla
 
-import java.util.Scanner;
+import java.util.*;
 
  public class Leer_Numero {
 

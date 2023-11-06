@@ -1,6 +1,6 @@
 //Introduce nombre por pantalla, y lo muestra en pantalla
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Leer_Nombre {
 
