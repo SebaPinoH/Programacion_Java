@@ -1,3 +1,7 @@
+/*Ingresa total de Grados y es los transforma en grados fahrenheit
+La fórmula correspondiente para pasar de grados centígrados a fahrenheit es:
+F = 32 + ( 9 * C / 5)*/
+
 import java.util.*;
 
 public class CantidadGrado {
